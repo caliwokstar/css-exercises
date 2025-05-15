@@ -1,0 +1,23 @@
+
+
+.odd-numbers {
+color:black;
+background-color: lightpink;
+
+}
+
+.third-number {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    color:black;
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
